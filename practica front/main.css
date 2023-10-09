@@ -32,6 +32,16 @@ h2{
     background-color: rgb(156, 46, 158);
 }
 
+.g{
+    height: 100%;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
 .div-content{
     text-align: center;
     display: grid;
